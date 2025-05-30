@@ -19,7 +19,7 @@ This project investigates how structural features of government procurement netw
 corruption-net-causal/
 ├── data/
 │ ├── contracts.json # procurement data (dummy data)
-│ └── corruption_scores.csv # ![Country-level corruption scores](https://github.com/datasets/corruption-perceptions-index/blob/cpi-dataflows/data/cpi.csv Country-level corruption scores)
+│ └── corruption_scores.csv # [Country-level corruption scores](https://github.com/datasets/corruption-perceptions-index/blob/cpi-dataflows/data/cpi.csv)
 ├── spark/
 │ └── process_contracts.py # PySpark processing script
 ├── results/
