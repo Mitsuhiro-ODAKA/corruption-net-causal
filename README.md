@@ -32,6 +32,7 @@ corruption-net-causal/
 Country-level corruption scores data source: [corruption-perceptions-index](https://github.com/datasets/corruption-perceptions-index/blob/cpi-dataflows/data/cpi.csv)
 
 ![01](imgs/01.png)
-<br>Note that the contract data used in this project is synthetic.
 ![02](imgs/02.png)
-<br>Analyzed how an increase in a firm's network centrality could affect the risk of corruption.
+
+<br>Contribution: Analyzed how an increase in a firm's network centrality could affect the risk of corruption.
+<br>Note that the contract data used in this project is synthetic.
