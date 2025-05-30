@@ -15,7 +15,7 @@ This project investigates how structural features of government procurement netw
 ---
 
 ## 🗂️ Project Structure
-
+```bash
 corruption-net-causal/
 ├── data/
 │ ├── contracts.json # procurement data (dummy data)
@@ -28,6 +28,6 @@ corruption-net-causal/
 │ └── causal_analysis.ipynb # Causal inference notebook (Colab-compatible)
 ├── README.md # This file
 └── requirements.txt # Python package list
-
+```
 ![01](imgs/01.png)
 ![02](imgs/02.png)
