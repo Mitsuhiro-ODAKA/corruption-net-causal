@@ -1,10 +1,10 @@
-# 🕸️ Causal and Network Analysis of Government Procurement Data with Corruption Perception Indices
+# Causal and Network Analysis of Government Procurement Data with Corruption Perception Indices
 
 This project investigates how structural features of government procurement networks—such as firm centrality and deal concentration—affect national corruption scores (e.g., CPI). It utilizes distributed processing (PySpark), graph databases (Neo4j), causal inference (DoWhy) to uncover underlying mechanisms of corruption.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology      | Purpose                                          |
 |------------------|--------------------------------------------------|
@@ -14,7 +14,7 @@ This project investigates how structural features of government procurement netw
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 ```bash
 corruption-net-causal/
 ├── data/
