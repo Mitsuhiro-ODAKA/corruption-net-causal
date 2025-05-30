@@ -1,0 +1,85 @@
+[
+  {
+    "buyer": { "id": "gov_japan" },
+    "awards": [
+      { "supplier": { "id": "corp_global" } },
+      { "supplier": { "id": "corp_mitsui" } },
+      { "supplier": { "id": "corp_hitachi" } }
+    ]
+  },
+  {
+    "buyer": { "id": "gov_kenya" },
+    "awards": [
+      { "supplier": { "id": "corp_global" } },
+      { "supplier": { "id": "corp_nairobi" } },
+      { "supplier": { "id": "corp_kenya_energy" } }
+    ]
+  },
+  {
+    "buyer": { "id": "gov_mexico" },
+    "awards": [
+      { "supplier": { "id": "corp_global" } },
+      { "supplier": { "id": "corp_mexico_telecom" } },
+      { "supplier": { "id": "corp_mexico_health" } },
+      { "supplier": { "id": "corp_mexico_energy" } }
+    ]
+  },
+  {
+    "buyer": { "id": "gov_germany" },
+    "awards": [
+      { "supplier": { "id": "corp_siemens" } },
+      { "supplier": { "id": "corp_bmw" } },
+      { "supplier": { "id": "corp_global" } }
+    ]
+  },
+  {
+    "buyer": { "id": "gov_india" },
+    "awards": [
+      { "supplier": { "id": "corp_tcs" } },
+      { "supplier": { "id": "corp_global" } },
+      { "supplier": { "id": "corp_health" } }
+    ]
+  },
+  {
+    "buyer": { "id": "gov_france" },
+    "awards": [
+      { "supplier": { "id": "corp_global" } },
+      { "supplier": { "id": "corp_defense" } },
+      { "supplier": { "id": "corp_health" } }
+    ]
+  },
+  {
+    "buyer": { "id": "gov_brazil" },
+    "awards": [
+      { "supplier": { "id": "corp_agriculture" } },
+      { "supplier": { "id": "corp_global" } },
+      { "supplier": { "id": "corp_mining" } }
+    ]
+  },
+  {
+    "buyer": { "id": "gov_nigeria" },
+    "awards": [
+      { "supplier": { "id": "corp_telecom" } },
+      { "supplier": { "id": "corp_global" } },
+      { "supplier": { "id": "corp_finance" } }
+    ]
+  },
+  {
+    "buyer": { "id": "gov_indonesia" },
+    "awards": [
+      { "supplier": { "id": "corp_construction" } },
+      { "supplier": { "id": "corp_global" } },
+      { "supplier": { "id": "corp_energy" } },
+      { "supplier": { "id": "corp_defense" } }
+    ]
+  },
+  {
+    "buyer": { "id": "gov_southafrica" },
+    "awards": [
+      { "supplier": { "id": "corp_global" } },
+      { "supplier": { "id": "corp_health" } },
+      { "supplier": { "id": "corp_agriculture" } },
+      { "supplier": { "id": "corp_telecom" } }
+    ]
+  }
+]
